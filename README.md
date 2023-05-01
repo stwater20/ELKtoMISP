@@ -2,7 +2,6 @@
 ELK data export to MISP using python
 
 ```
-pip3 install datetime
 pip3 install pymisp
 pip3 install elasticsearch
 ```
